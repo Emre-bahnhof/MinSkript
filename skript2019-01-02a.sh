@@ -4,4 +4,3 @@ if [ ! -d $1 ] ; then
 fi
 touch $2
 mv $2 ./$1/$2
-
