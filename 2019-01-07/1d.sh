@@ -5,7 +5,7 @@ echo "1=ls"
 echo "2=pwd"
 echo "3=ls-l"
 echo "4=ps -fe"
-echo "6=exit"
+echo "*=exit"
 while :
 do
   read INPUT_STRING
